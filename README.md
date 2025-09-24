@@ -37,3 +37,7 @@ Quer fazer parte?
 ---
 
 ✨ Fique de olho: mais novidades em breve... 
+
+downloads 
+
+🔎 Soogle → [downloads](https://soogle.playcode.io/)
