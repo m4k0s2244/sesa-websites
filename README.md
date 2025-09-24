@@ -40,4 +40,4 @@ Quer fazer parte?
 
 downloads 
 
-🔎 Soogle → [downloads](https://soogle.playcode.io/)
+🔎 Soogle → [downloads](https://github.com/m4k0s2244/sesa-websites/issues/1#issue-3438661472)
