@@ -41,3 +41,8 @@ Quer fazer parte?
 downloads 
 
 🔎 S.E.S.A → [downloads](https://github.com/m4k0s2244/sesa-websites/issues/1#issue-3438661472)
+
+# NOVO MÉTODO LAUCHER HTML **S E S A laucher** 
+
+🔎 S.E.S.A → [LAUCHER](https://sesalaucher.playcode.io)
+ 
